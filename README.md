@@ -1,9 +1,4 @@
-# news-app
-Kotlin News app MVVM
-
-
-# Project Title
-News app
+# News app
 
 ## Description
 A Kotlin MVVM android news application that that fetches https://newsapi.org API
